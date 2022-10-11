@@ -1,17 +1,17 @@
 name: Receptar
 slug: receptar
 type: theme
-version: 1.4.0
+version: 1.5.0
 description: "Receptar is simple, modern, responsive, high-DPI, fully customizable, stylish blog Grav theme. It features split-screen book-like design inspired by a modern cook book with emphasize on beautiful imagery and typography."
 icon: group
 author:
-  name: Team Grav
+  name: Team Grav (tuned by spin0us)
   email: devs@getgrav.org
   url: http://getgrav.org
-homepage: https://github.com/getgrav/grav-theme-receptar
+homepage: https://github.com/spin0us/grav-theme-receptar
 demo: http://demo.getgrav.org/receptar-skeleton
 keywords: receptar, theme, cookbook, split-screen, fast, responsive, html5, css3
-bugs: https://github.com/getgrav/grav-theme-receptar/issues
+bugs: https://github.com/spin0us/grav-theme-receptar/issues
 license: GPL2
 
 dependencies:
